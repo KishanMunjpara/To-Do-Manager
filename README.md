@@ -2,8 +2,13 @@
 
 Demo: [ToDo Manager](https://to-do-manager-ruddy.vercel.app/)
 
-![ToDo Manager Screenshot](https://drive.google.com/file/d/1bAF_xWM-cWabkd3EtSm77yACAh_CAFw4/view?usp=drive_link)
+<img
+  src="[/path/to/img.jpg](https://drive.google.com/file/d/1bAF_xWM-cWabkd3EtSm77yACAh_CAFw4/view?usp=drive_link)"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+  
 ## Features
 
 - **Adaptable Design:** Optimized for usage across various devices.
