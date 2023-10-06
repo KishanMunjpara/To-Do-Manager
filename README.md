@@ -24,5 +24,4 @@ Demo: [ToDo Manager](https://to-do-manager-ruddy.vercel.app/)
 - React Router DOM
 - HTML
 - API Integration (e.g., Weather Data)
-- Gaming Features (please specify)
 - Figma Design (for UI/UX design)
