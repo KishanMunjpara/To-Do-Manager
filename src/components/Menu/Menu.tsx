@@ -31,6 +31,7 @@ const Menu: React.FC = () => {
         <BtnAddTask className="my-8 mx-4" />
         <NavLinks classActive={classLinkActive} />
         <Directories classActive={classLinkActive} />
+        <button className="btn my-8 mx-4" onClick={closeMenuHandler}>Back Home</button>
       </header>
       {/* <Footer /> */}
     </LayoutMenus>
