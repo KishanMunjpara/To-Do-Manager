@@ -4,6 +4,11 @@
 👆👆👆
 
 <img src="src/store/Screenshot 2023-10-06 232955.png" alt="Alt text" title="Optional title">
+<img
+  src="src/store/Screenshot 2023-10-06 232955.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## Features
 - Adaptable design for optimal usage across various devices.
