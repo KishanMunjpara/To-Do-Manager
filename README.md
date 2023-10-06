@@ -1,6 +1,6 @@
 ## Demo
 👇👇👇<br/>
-<a href="(https://to-do-manager-a20oas24j-kishanmunjpara.vercel.app/)">WebVaVe ToDo</a><br/>
+<a href="https://to-do-manager-a20oas24j-kishanmunjpara.vercel.app/"> ToDo Manager</a><br/>
 👆👆👆
 
 
