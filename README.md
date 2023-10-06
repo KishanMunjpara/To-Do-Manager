@@ -2,7 +2,7 @@
 
 Demo: [ToDo Manager](https://to-do-manager-ruddy.vercel.app/)
 
-<img src="/src/store/image.png" alt="Alt text" title="Optional title">
+<img src="image.png" alt="Alt text" title="Optional title">
 ## Features
 
 - **Adaptable Design:** Optimized for usage across various devices.
