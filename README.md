@@ -3,6 +3,8 @@
 Demo: [ToDo Manager](https://to-do-manager-ruddy.vercel.app/)
 
 
+## VIEW
+![Optional Title](https://drive.google.com/uc?id=1bAF_xWM-cWabkd3EtSm77yACAh_CAFw4)
 ## Features
 
 - **Adaptable Design:** Optimized for usage across various devices.
