@@ -3,6 +3,7 @@
 <a href="https://to-do-manager-ruddy.vercel.app/"> ToDo Manager</a><br/>
 👆👆👆
 
+[Screenshot 2023-10-06 232955](https://github.com/KishanMunjpara/To-Do-Manager/assets/120464869/829abc08-656c-48ef-b7cf-2cb4de9eedc9)
 
 ## Features
 - Adaptable design for optimal usage across various devices.
@@ -18,7 +19,8 @@
 - React JS
 - TypeScript
 - Tailwind CSS
-- React Router DOM
+- React Router DOM!
+
 - HTML
 - API Integration
 - Weather Data
