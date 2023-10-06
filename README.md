@@ -3,7 +3,7 @@
 <a href="https://to-do-manager-ruddy.vercel.app/"> ToDo Manager</a><br/>
 👆👆👆
 
-[Screenshot 2023-10-06 232955](https://github.com/KishanMunjpara/To-Do-Manager/assets/120464869/829abc08-656c-48ef-b7cf-2cb4de9eedc9)
+<img src="src/store/Screenshot 2023-10-06 232955.png" alt="Alt text" title="Optional title">
 
 ## Features
 - Adaptable design for optimal usage across various devices.
